@@ -17,3 +17,7 @@ git push origin master:main
 でも同様にpushすることができました。
 
 ローカルのブランチ名をmasterからmainに変更しました。
+
+git push origin main
+
+でpushすることができるようになりました。
