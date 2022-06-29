@@ -2,6 +2,18 @@
 
 Natootokiのgit練習です。
 
+sshの設定をしました。
+
+pubファイルの内容はcmdで
+
+type ファイル名
+
+を実行することで確認できました。
+
+.sshの中にconfigというファイルを作ることで
+
+コマンドライン上でgitHubを動かせるようになりました。
+
 git push origin mainができず、
 
 error: src refspec manin does not match any
