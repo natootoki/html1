@@ -15,3 +15,5 @@ git push origin HEAD:<GitHub上のpush先のbranch名>
 git push origin master:main
 
 でも同様にpushすることができました。
+
+ローカルのブランチ名をmasterからmainに変更しました。
