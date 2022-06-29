@@ -11,3 +11,7 @@ error: src refspec manin does not match any
 git push origin HEAD:<GitHub上のpush先のbranch名>
 
 をすると解決しました。
+
+git push origin master:main
+
+でも同様にpushすることができました。
